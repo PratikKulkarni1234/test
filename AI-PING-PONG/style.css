@@ -1,0 +1,16 @@
+.head{
+    width: 100%;
+}
+
+.ins{
+    float: left;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 16px;
+}
+
+.head1{
+    float:right;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
